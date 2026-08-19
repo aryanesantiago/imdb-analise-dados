@@ -1,4 +1,4 @@
-# 🎬 Análise de Dados — IMDb Top 250
+# 🎬 Análise de Dados - IMDb Top 250
 
 Análise dos 250 filmes mais bem avaliados do IMDb usando dados do Kaggle. O projeto cobre desde a limpeza inicial até a modelagem no banco de dados e a criação do dashboard.
 
