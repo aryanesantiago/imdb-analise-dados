@@ -12,7 +12,8 @@ Análise dos 250 filmes mais bem avaliados do IMDb usando dados do Kaggle. O pro
 
 ## 📊 Dashboard
 
-![Dashboard IMDb Top 250](dashboard/dashboard_preview.png.png)
+<img width="1278" height="716" alt="dashboard_preview" src="https://github.com/user-attachments/assets/65a6d213-63c7-4afd-b59a-27a300b05c88" />
+
 
 ## 🛠️ Tecnologias Usadas
 
