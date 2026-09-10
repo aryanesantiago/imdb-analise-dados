@@ -2,7 +2,7 @@
 
 Análise dos 250 filmes mais bem avaliados do IMDb usando dados do Kaggle. O projeto cobre desde a limpeza inicial até a modelagem no banco de dados e a criação do dashboard.
 
-## 🔍 O que este projeto analisa
+## O que este projeto analisa
 
 - Quais filmes lideram o ranking de faturamento global?
 - Em quais décadas foram produzidos os filmes mais aclamados?
@@ -10,12 +10,12 @@ Análise dos 250 filmes mais bem avaliados do IMDb usando dados do Kaggle. O pro
 - Quais gêneros dominam as posições do Top 250?
 - Qual é o padrão de nota e bilheteria média dessa lista?
 
-## 📊 Dashboard
+## Dashboard
 
 <img width="1276" height="717" alt="Captura de tela 2026-08-19 111811" src="https://github.com/user-attachments/assets/06b5cded-40c9-49e0-8273-18ccf2ddac81" />
 
 
-## 🛠️ Tecnologias Usadas
+## Tecnologias 
 
 - **Dataset:** Kaggle (IMDb Top 250 Movies)
 - **Python (Pandas):** Limpeza, padronização e criação de colunas de lucro e década.
