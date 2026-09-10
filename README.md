@@ -21,3 +21,4 @@ Análise dos 250 filmes mais bem avaliados do IMDb usando dados do Kaggle. O pro
 - **Python (Pandas):** Limpeza, padronização e criação de colunas de lucro e década.
 - **MySQL:** Modelagem relacional e queries para cruzamento de notas, faturamento e gêneros.
 - **Power BI:** Dashboard interativo com métricas de bilheteria, distribuição por década e notas.
+ 
